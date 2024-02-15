@@ -15,12 +15,17 @@ You can try another model such as FuzzyGA, ANFIS-GA and another algorithm to sui
 
 # Future Works
 1)Save the key GUI data for user reference using the save button in the GUI
+
 2)If the user is most likely or has a high possibility of heart disease, the report button will be utilised for the referral to an appointment with the doctor for early treatment.
 
 Reference:
+
 GUI: https://www.youtube.com/watch?v=Qd-jJjduWeQ
+
 ANFIS: https://www.kaggle.com/code/hamedetezadi/using-anfis-for-capacitive-deionization
+
 Slide of the Project: https://www.canva.com/design/DAF8xi5KZEI/oIyp6YDh3CBsIwsx3O7txA/edit
+
 Full Project Report: https://docs.google.com/document/d/1d9KDyeSTnXXX2bHL__cDSOjpojuS40dtkbB_54Ql3ts/edit?usp=sharing
 
 
